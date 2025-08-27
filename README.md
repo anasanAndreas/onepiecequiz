@@ -1,4 +1,4 @@
-# onepiecequiz
+# QUIZ ONE PIECE
 um quiz interativo de personalidade baseado nos personagens de one piece 
 o usuário responde a uma série de perguntas e, ao final, descobre com qual personagem da obra mais se parece
 
